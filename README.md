@@ -66,7 +66,7 @@ Vibes Offices
 | Week | Day  | Warm Up | Lesson | Lesson | Lesson| Homework|  
 |------| ---- | ------ | ------ | -------| -----|---------|
 | 1    | 1    |      |  [Orientation](images/orientation.pdf)    |   [Command Line](https://github.com/wdi-red-coral/week_01-day_01-unix-cli)       |       |  [Simpsons HW](https://github.com/wdi-red-coral/hw-week_01-day_01-unix-cli)       |
-| 1    | 2    |      |        |         |       |         |
+| 1    | 2    |      | [Javascript Intro](https://github.com/wdi-red-coral/week_01-day_02-javascript-intro)       |         |       |  [Javascript Intro HW](https://github.com/wdi-red-coral/hw-week_01-day_02-javascript)       |
 | 1    | 3    |      |        |         |       |         |
 | 1    | 4    |      |        |         |       |         |
 | 1    | 5    |      |        |         |       |         |
