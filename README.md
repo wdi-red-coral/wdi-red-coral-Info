@@ -10,9 +10,9 @@ Vibes Offices
 
 **10am - 6pm class**
 
->1pm - 2pm lunch 
+>12:45pm - 2pm lunch 
 
->3:30pm - 4pm break
+>3:45pm - 4pm break
 
 >Hours will change for Ramadan hours 5/5 - 23
 
