@@ -7,7 +7,7 @@ Hi folks, Welcome to WDI 5. This repository contains information, HW,  Assignmen
 
 # Important links 
 - [Class Slack](https://miskacademy.slack.com/messages/CFT2TMK6F)
-- [Exit Ticket](https://docs.google.com/forms/d/15z-_jgjnkorQuD3tLGQ47SwRSPFhX_fAT6NAJ4xfBTE/viewform)
+- [Exit Ticket](https://docs.google.com/forms/d/15z-_jgjnkorQuD3tLGQ47SwRSPFhX_fAT6NAJ4xfBTE/viewform) (complete at the end of Thursday class each week)
 
 ## Location
 
