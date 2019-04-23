@@ -79,7 +79,7 @@ Curriculum schedule is subject to change at instructor's discretion.
 | Week | Day  | Warm Up | Lesson | Lesson | Lesson| Homework|  
 |------| ---- | ------ | ------ | -------| -----|---------|
 | 1    | 1    |      |  [Orientation](images/orientation.pdf)    |   [Command Line](https://github.com/wdi-red-coral/week_01-day_01-unix-cli)       |       |  [Simpsons HW](https://github.com/wdi-red-coral/hw-week_01-day_01-unix-cli)       |
-| 1    | 2    |      | [Javascript Intro](https://github.com/wdi-red-coral/week_01-day_02-javascript-intro)       |   [Git](https://github.com/wdi-red-coral/week_01-day_02-git)      |       |  [Javascript Intro HW](https://github.com/wdi-red-coral/hw-week_01-day_02-javascript)       |
+| 1    | 2    |      | [JS Intro](https://github.com/wdi-red-coral/week_01-day_02-javascript-intro)       |   [Git](https://github.com/wdi-red-coral/week_01-day_02-git)      |       |  [JS Intro HW](https://github.com/wdi-red-coral/hw-week_01-day_02-javascript)       |
 | 1    | 3    |  [JS Intro Warm Up](https://github.com/wdi-red-coral/warmup-week_01-day_03-javascript)    |  [JS Functions](https://github.com/wdi-red-coral/week_01-day_03-js-functions)      |         |       |    [JS Functions HW](https://github.com/wdi-red-coral/hw-week_01-day_03-js-functions)     |
 | 1    | 4    |      |        |         |       |         |
 | 1    | 5    |      |        |         |       |         |
