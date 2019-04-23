@@ -29,6 +29,8 @@ Vibes Offices
 
 ## Curriculum Overview
 
+Curriculum schedule is subject to change at instructor's discretion.
+
 ### Unit 1 (Front End Web Development)
 
 | Week  | Topics |
