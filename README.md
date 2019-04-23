@@ -23,7 +23,7 @@ Vibes Offices
 
 >3:45pm - 4pm break
 
-**Tuesday 6pm - 8pm office hours**
+**Wednesday 6pm - 8pm office hours**
 
 >Hours will change for Ramadan hours 5/5 - 23
 
