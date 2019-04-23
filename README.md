@@ -1,4 +1,13 @@
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) 
+
 # WDI Red Coral
+# WDI 5
+
+Hi folks, Welcome to WDI 5. This repository contains information, HW,  Assignments, Projects and Materials specific to your course.
+
+# Important links 
+- [Class Slack](https://miskacademy.slack.com/messages/CFT2TMK6F)
+- [Exit Ticket](https://docs.google.com/forms/d/15z-_jgjnkorQuD3tLGQ47SwRSPFhX_fAT6NAJ4xfBTE/viewform)
 
 ## Location
 
@@ -8,11 +17,13 @@ Vibes Offices
 
 ## Hours
 
-**10am - 6pm class**
+**Sun - Thurs 10am - 6pm class**
 
 >12:45pm - 2pm lunch 
 
 >3:45pm - 4pm break
+
+**Tuesday 6pm - 8pm office hours**
 
 >Hours will change for Ramadan hours 5/5 - 23
 
