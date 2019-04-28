@@ -83,8 +83,8 @@ Curriculum schedule is subject to change at instructor's discretion.
 | 1    | 3    |  [JS Intro Warm Up](https://github.com/wdi-red-coral/warmup-week_01-day_03-javascript)    |  [JS Functions](https://github.com/wdi-red-coral/week_01-day_03-js-functions)      |         |       |    [JS Functions HW](https://github.com/wdi-red-coral/hw-week_01-day_03-js-functions)     |
 | 1    | 4    |   [Leap of Year](https://github.com/wdi-red-coral/warmup-week_01-day_04-js-functions)  |  [JavaScript Loops](https://github.com/wdi-red-coral/week_01-day_04-js-loops)      |    [JavaScript Arrays](https://github.com/wdi-red-coral/hw-week_01-day_04-js-arrays)    |       |   [JavaScript Array HW](https://github.com/wdi-red-coral/hw-week_01-day_04-js-arrays)       |
 | 1    | 5    |    [99 bottles of coke - Loops](https://github.com/wdi-red-coral/warmup-week_01-day_05-js-loops)  |    [JavaScript Objects](https://github.com/wdi-red-coral/week_01-day_05-js-objects)    |         |       |    [JS MBTA HW](https://github.com/wdi-red-coral/hw-week_01-day_05-js-mbta)     |
-| 2    | 1    |   [MBTA](https://github.com/wdi-red-coral/warmup-mbta)   |    [HTML and CSS](https://github.com/wdi-red-coral/week_02-day_01-html-css)    |         |       |         |
-| 2    | 2    |      |        |         |       |         |
+| 2    | 1    |   [MBTA](https://github.com/wdi-red-coral/warmup-mbta)   |    [HTML and CSS](https://github.com/wdi-red-coral/week_02-day_01-html-css)    |         |       |  [HTML and CSS HW](https://github.com/wdi-red-coral/hw-week_02-day_01-html-css)       |
+| 2    | 2    |     |        |         |       |         |
 | 2    | 3    |      |        |         |       |         |
 | 2    | 4    |      |        |         |       |         |
 | 2    | 5    |      |        |         |       |         |
