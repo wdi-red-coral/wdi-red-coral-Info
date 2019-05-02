@@ -47,7 +47,7 @@ Curriculum schedule is subject to change at instructor's discretion.
 | Week  | Topics |
 | ----- | ------ |
 | 1  | Command Line, Git, Javascript  |
-| 2  | HTML, CSS, jQuery, Responsive, Bootstrap|
+| 2  | HTML, CSS, jQuery, Responsive|
 | 3  | Project 1  |
 
 ### Unit 2 (Back End Web Development)
@@ -55,7 +55,7 @@ Curriculum schedule is subject to change at instructor's discretion.
 | Week  | Topics |
 | ----- | ------ |
 | 4  | Ruby, SQL, Git Workflow |
-| 5  | Ruby on Rails, Authentication  |
+| 5  | Ruby on Rails, Bootstrap, Authentication  |
 | 6  | Project 2 |
 
 ### Unit 3 (Front End Framework)
@@ -87,8 +87,8 @@ Curriculum schedule is subject to change at instructor's discretion.
 | 2    | 2    |    [HTML/CSS Basics](https://github.com/wdi-red-coral/warmup-week_02-day_02-html-css)  |    [CSS Positioning](https://github.com/wdi-red-coral/week_02-day_02-css-position)    |    [CSS Flexbox](https://github.com/wdi-red-coral/week_02-day_02-css-flexbox)      |      |     [Flexbox HW](https://github.com/wdi-red-coral/hw-week_02-day_02-html-css-flexbox)  |
 | 2    | 3    |  [Flexbox HW Review](https://github.com/wdi-red-coral/hw-week_02-day_02-html-css-flexbox/tree/training/starter_code)    |     [Responsive Web Design](https://github.com/wdi-red-coral/week_02-day_03-responsive-design/)   |    [Advanced JS](https://github.com/wdi-red-coral/week_02-day_03-advanced-js)    |       |   [Responsive HW](https://github.com/wdi-red-coral/hw-week_02-day_03-responsive-design)      |
 | 2    | 4    |   [Scrabble](https://github.com/wdi-red-coral/warmup-week02_day04-Scrabble)   |   [jQuery and DOM](https://github.com/wdi-red-coral/week_02-day_04-jquery-dom)     |         |       |     [Jquery-DOM HW](https://github.com/wdi-red-coral/hw-week_02-day_04-jquery-dom)    |
-| 2    | 5    |      |        |         |       |         |
-| 3    | 1-5    | Project 1      | Project 1       |   Project 1      |  Project 1     |    Project 1     |
+| 2    | 5    |  [Game of Zones](https://github.com/wdi-red-coral/warmup-week_02-day_05-gameofzones)    |        |         |       | [Project 1](https://github.com/wdi-red-coral/project-1-prompt)        |
+| 3    | 1-5    | [Project 1](https://github.com/wdi-red-coral/project-1-prompt)      | [Project 1](https://github.com/wdi-red-coral/project-1-prompt)       |  [Project 1](https://github.com/wdi-red-coral/project-1-prompt)      |  [Project 1](https://github.com/wdi-red-coral/project-1-prompt)    |   [Project 1](https://github.com/wdi-red-coral/project-1-prompt)    |
 | 4    | 1    |      |        |         |       |        |
 | 4    | 2    |      |        |         |       |         |
 | 4    | 3    |      |        |         |       |         |
