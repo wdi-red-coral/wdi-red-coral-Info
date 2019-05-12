@@ -89,7 +89,7 @@ Curriculum schedule is subject to change at instructor's discretion.
 | 2    | 4    |   [Scrabble](https://github.com/wdi-red-coral/warmup-week02_day04-Scrabble)   |   [jQuery and DOM](https://github.com/wdi-red-coral/week_02-day_04-jquery-dom)     |         |       |     [Jquery-DOM HW](https://github.com/wdi-red-coral/hw-week_02-day_04-jquery-dom)    |
 | 2    | 5    |  [Game of Zones](https://github.com/wdi-red-coral/warmup-week_02-day_05-gameofzones)    |  [Advanced jQuery](https://github.com/wdi-red-coral/week_02-day_05-advanced-jquery)      |         |       | [Project 1](https://github.com/wdi-red-coral/project-1-prompt)        |
 | 3    | 1-5    | [Project 1](https://github.com/wdi-red-coral/project-1-prompt)      | [Project 1](https://github.com/wdi-red-coral/project-1-prompt)       |  [Project 1](https://github.com/wdi-red-coral/project-1-prompt)      |  [Project 1](https://github.com/wdi-red-coral/project-1-prompt)    |   [Project 1](https://github.com/wdi-red-coral/project-1-prompt)    |
-| 4    | 1    |      |        |         |       |        |
+| 4    | 1    |      |   [Introduction to Ruby](https://github.com/wdi-red-coral/week_04-day_01-ruby)     |         |       |     [Ruby HW](https://github.com/wdi-red-coral/hw-week_04-day_01-ruby)   |
 | 4    | 2    |      |        |         |       |         |
 | 4    | 3    |      |        |         |       |         |
 | 4    | 4    |      |        |         |       |         |
