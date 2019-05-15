@@ -92,7 +92,7 @@ Curriculum schedule is subject to change at instructor's discretion.
 | 4    | 1    |   [Installing Ruby](https://github.com/wdi-red-coral/week_04-day_01-ruby/blob/master/install-ruby.md)   |   [Introduction to Ruby](https://github.com/wdi-red-coral/week_04-day_01-ruby)     |         |       |     [Ruby HW](https://github.com/wdi-red-coral/hw-week_04-day_01-ruby)   |
 | 4    | 2    |      |   [Ruby Loops and Methods](https://github.com/wdi-red-coral/week_04-day_02-ruby-loops-methods)     |         |       |     [Ruby Array and Hash Homework](https://github.com/wdi-red-coral/hw-week_04-day_02-ruby-loops-methods)    |
 | 4    | 3    |      |    [Ruby Objects](https://github.com/wdi-red-coral/week_04-day_03-ruby-objects)    |    [Ruby Inheritance](https://github.com/wdi-red-coral/week_04-day_03-ruby-inheritance)     |       |         |
-| 4    | 4    |      |        |         |       |         |
+| 4    | 4    |      |   [SQL](https://github.com/wdi-red-coral/week_04-day_04-sql)     |    [Rails Intro](https://github.com/wdi-red-coral/week_04-day_04-rails-intro)     |       |         |
 | 4    | 5    |      |        |         |       |         |
 | 5    | 1    |      |        |         |       |         |
 | 5    | 2    |      |        |         |       |         |
