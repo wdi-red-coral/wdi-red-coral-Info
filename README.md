@@ -93,7 +93,7 @@ Curriculum schedule is subject to change at instructor's discretion.
 | 4    | 2    |      |   [Ruby Loops and Methods](https://github.com/wdi-red-coral/week_04-day_02-ruby-loops-methods)     |         |       |     [Ruby Array and Hash Homework](https://github.com/wdi-red-coral/hw-week_04-day_02-ruby-loops-methods)    |
 | 4    | 3    |      |    [Ruby Objects](https://github.com/wdi-red-coral/week_04-day_03-ruby-objects)    |    [Ruby Inheritance](https://github.com/wdi-red-coral/week_04-day_03-ruby-inheritance)     |       |         |
 | 4    | 4    |      |   [SQL](https://github.com/wdi-red-coral/week_04-day_04-sql)     |    [Rails Intro](https://github.com/wdi-red-coral/week_04-day_04-rails-intro)     |       |    [Read RailsGuides](https://guides.rubyonrails.org/getting_started.html)     |
-| 4    | 5    |      |        |         |       |         |
+| 4    | 5    |      |   [Rails Single Resource](https://github.com/wdi-red-coral/week_04-day_05-rails-single-resource)     |         |       |    [Rails HW](https://github.com/wdi-red-coral/hw-week_04-day_05-rails)     |
 | 5    | 1    |      |        |         |       |         |
 | 5    | 2    |      |        |         |       |         |
 | 5    | 3    |      |        |         |       |         |
