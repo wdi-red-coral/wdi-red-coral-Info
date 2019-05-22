@@ -97,7 +97,7 @@ Curriculum schedule is subject to change at instructor's discretion.
 | 5    | 1    |      |    [Rails Single Resource](https://github.com/wdi-red-coral/week_04-day_05-rails-single-resource)    |      |      |    [Rails HW](https://github.com/wdi-red-coral/hw-week_04-day_05-rails) (cont.)     |
 | 5    | 2    |      |    [Rails Single Resource](https://github.com/wdi-red-coral/week_04-day_05-rails-single-resource)    |    [Rails One to Many](https://github.com/wdi-red-coral/week_05-day_01-rails-one-to-many)     |       |    [Rails HW](https://github.com/wdi-red-coral/hw-week_04-day_05-rails) (cont.)     |
 | 5    | 3    |      |   [Rails Model Validations](https://github.com/wdi-red-coral/week_05-day_03-rails-model-validation)     |         |       |         |
-| 5    | 4    |      |        |         |       |         |
+| 5    | 4    |      |    [Rails Authentication and Sessions - Devise](https://github.com/wdi-red-coral/week_05-day_03-rails-devise)    |   [Rails Assets](https://github.com/wdi-red-coral/week_05-day_03-rails-devise)      |       |         |
 | 5    | 5    |      |        |         |       |         |
 | 6    | 1-5    | Project 2      | Project 2       |   Project 2      |  Project 2     |    Project 2     |
 | 7    | 1    |      |        |         |       |        |
