@@ -131,12 +131,12 @@ Curriculum schedule is subject to change at instructor's discretion.
 
 | No. |Group Name| Student One |Student Two| Student Three | Student Four | Project Repo |
 --- | ---| --- | --- | -- | -- | -- | -- |
-1 | Hello, World| Dhaffaf | Mashael | Sumayah | Salman | | 
+1 | Hello, World| Dhaffaf | Mashael | Sumayah | Salman | |  |
 2 | Team Rocket| Danyah | Salha | Samah | Nader | | |
-3 | The Guardians| Haneen | Lamar | Abdulrhman | Nashaat| |  
-4 | Debug Entity| Nuwayyir | Asmaa |  Omar Almalky | Ahmed | saeed| 
+3 | The Guardians| Haneen | Lamar | Abdulrhman | Nashaat| |  |
+4 | Debug Entity| Nuwayyir | Asmaa |  Omar Almalky | Ahmed | saeed| |
 5 | Tech team | Wijdan |  maha | Taha |amany | | |
-6 | Error Monsters | Huda | Jawaher| Norah | omar ibrahim| | 
+6 | Error Monsters | Huda | Jawaher| Norah | omar ibrahim| | |
 
 ## Licensing
 1. All content is licensed under a CC-BY-NC-SA 4.0 license.
