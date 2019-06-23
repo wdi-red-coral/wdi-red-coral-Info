@@ -123,6 +123,8 @@ Curriculum schedule is subject to change at instructor's discretion.
 | 11    | 5    |      |        |         |       |         |
 | 12    | 1-5    | Project 4      | Project 4       |   Project 4      |  Project 4     |    Project 4     |
 
+----------
+
 ### Students Projects
 
 | No. | Student| Project 1 | Project 2 | Project 3 | Project 4 |
@@ -149,6 +151,7 @@ Curriculum schedule is subject to change at instructor's discretion.
 | 20  |       |            |            |
 
 ----------
+
 #### Group Projects 
 
 | No. |Group Name| Student One |Student Two| Student Three | Student Four | Student Five | Project Repo |
