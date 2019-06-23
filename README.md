@@ -100,7 +100,7 @@ Curriculum schedule is subject to change at instructor's discretion.
 | 5    | 4    |      |    [Rails Authentication and Sessions - Devise](https://github.com/wdi-red-coral/week_05-day_03-rails-devise)    |   [Rails Assets](https://github.com/wdi-red-coral/week_05-day_03-rails-devise)      |   [Rails Bootstrap](https://github.com/wdi-red-coral/week_05-day_05-rails-bootstrap)    |         |
 | 5    | 5    |   Project 2 Proposal Review   |    Project 2 Proposal Review    |   Project 2 Proposal Review      |   Project 2 Proposal Review    |    Project 2 Proposal Review     |
 | 6    | 1-5    | Project 2      | Project 2       |   Project 2      |  Project 2     |    Project 2     |
-| 7    | 1    |   [The Sieve of Eratosthenes](https://github.com/wdi-red-coral/warmup-week_07-day_01-sieve)   |        |         |       |        |
+| 7    | 1    |   [The Sieve of Eratosthenes](https://github.com/wdi-red-coral/warmup-week_07-day_01-sieve)   |   [Fat Arrow Callbacks](https://github.com/wdi-red-coral/week_07-day_01-fat-arrow-callbacks)     |   [JS Classes](https://github.com/wdi-red-coral/week_07-day_01-js-classes)      |    [HW JS Classes](https://github.com/wdi-red-coral/hw-week_07-day_01-js-classes)   |        |
 | 7    | 2    |      |        |         |       |         |
 | 7    | 3    |      |        |         |       |         |
 | 7    | 4    |      |        |         |       |         |
