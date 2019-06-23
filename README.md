@@ -122,3 +122,22 @@ Curriculum schedule is subject to change at instructor's discretion.
 | 11    | 4    |      |        |         |       |         |
 | 11    | 5    |      |        |         |       |         |
 | 12    | 1-5    | Project 4      | Project 4       |   Project 4      |  Project 4     |    Project 4     |
+
+
+
+
+
+#### Group Projects 
+
+| No. |Group Name| Student One |Student Two| Student Three | Student Four | Project Repo |
+--- | ---| --- | --- | -- | -- | --
+1 | Hello, World|Dhaffaf | Mashael | Sumayah | Salman | | |
+2 | Team Rocket|Danyah | Salha | Samah | Nader | | |
+3 | The Guardians|Haneen | Lamar | Abdulrhman |Nashaat| | | 
+4 | Debug Entity|Nuwayyir | Asmaa |  Omar Almalky | Ahmed | saeed| |
+5 | Tech team|Wijdan |  maha | Taha |amany | | |
+6 | Error Monsters | Huda | Jawaher| Norah | omar ibrahim| | |
+
+## Licensing
+1. All content is licensed under a CC-BY-NC-SA 4.0 license.
+2. All software code is licensed under GNU GPLv3. For commercial use or alternative licensing, please contact legal@ga.co.
