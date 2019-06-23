@@ -123,21 +123,27 @@ Curriculum schedule is subject to change at instructor's discretion.
 | 11    | 5    |      |        |         |       |         |
 | 12    | 1-5    | Project 4      | Project 4       |   Project 4      |  Project 4     |    Project 4     |
 
+### Students Projects
 
-
-
-
-#### Group Projects 
-
-| No. |Group Name| Student One |Student Two| Student Three | Student Four | Student Four | Project Repo |
---- | ---| --- | --- | -- | -- | -- | -- |
-1 | Hello, World| Dhaffaf | Mashael | Sumayah | Salman | |  |
-2 | Team Rocket| Danyah | Salha | Samah | Nader | | |
-3 | The Guardians| Haneen | Lamar | Abdulrhman | Nashaat| |  |
-4 | Debug Entity| Nuwayyir | Asmaa |  Omar Almalky | Ahmed | saeed| |
-5 | Tech team | Wijdan |  maha | Taha |amany | | |
-6 | Error Monsters | Huda | Jawaher| Norah | omar ibrahim| | |
-
-## Licensing
-1. All content is licensed under a CC-BY-NC-SA 4.0 license.
-2. All software code is licensed under GNU GPLv3. For commercial use or alternative licensing, please contact legal@ga.co.
+| No. | Student| Project 1 | Project 2 | Project 3 | Project 4 |
+| --- | --- | --- | -- | -- | -- |
+| 1   | Abdulrahman Khoja | [Tic Tac Toe](https://github.com/akhouja1994/tic-tac-toe)   | 
+| 2   |       |            |            |   
+| 3   |       |            |            |  
+| 4   |       |            |            |  
+| 5   |       |            |            |  
+| 6   |       |            |            |  
+| 7   |       |            |            |  
+| 8   |       |            |            |  
+| 9   |       |            |            |  
+| 10  |       |            |            |  
+| 11  |       |            |            |  
+| 12  |       |            |            |  
+| 13  |       |            |            |  
+| 14  |       |            |            |  
+| 15  |       |            |            |  
+| 16  |       |            |            |  
+| 17  |       |            |            |  
+| 18  |       |            |            |  
+| 19  |       |            |            |  
+| 20  |       |            |            |
