@@ -152,7 +152,7 @@ Curriculum schedule is subject to change at instructor's discretion.
 #### Group Projects 
 
 | No. |Group Name| Student One |Student Two| Student Three | Student Four | Student Five | Project Repo |
---- | ---| --- | --- | -- | -- | -- |
+| --- | ---| --- | --- | -- | -- | -- | -- |
 1 | Hello, World|Dhaffaf | Mashael | Sumayah | Salman | | |
 2 | Team Rocket|Danyah | Salha | Samah | Nader | | |
 3 | The Guardians|Haneen | Lamar | Abdulrhman |Nashaat| | | 
