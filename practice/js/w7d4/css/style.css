@@ -1,0 +1,67 @@
+body, form, input, button {
+  font-size: 24px;
+  font-family: sans-serif;
+}
+
+body {
+	background: #EEE;
+	margin: 0;
+	padding: 0;
+}
+
+#app {
+	max-width: 30em;
+	margin: 10px auto;
+	border-radius: 10px;
+	padding: 2px;
+	background: white;
+	box-shadow: 0 0 5px rgba(0,0,0,.5);
+}
+
+#app header, #app footer {
+	background: #222;
+	color: white;
+	padding: 20px;
+}
+#app header {
+	border-radius: 10px 10px 0 0;
+}
+#app footer {
+	border-radius: 0 0 10px 10px;
+}
+
+#list-of-image {
+	background: white;
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+#list-of-image li {
+	padding: 20px 20px;
+}
+#list-of-image li:hover {
+	background: #EEE;
+}
+
+#list-of-image .item {
+	cursor: pointer;
+}
+#list-of-image .done .item {
+	color: #CCC;
+	text-decoration: line-through;
+}
+
+#list-of-image a {
+	visibility: hidden;
+	cursor: pointer;
+	margin-left: 1em;
+	font-size: .5em;
+	text-transform: uppercase;
+	color: navy;
+}
+#list-of-image li:hover a {
+	visibility: visible;
+}
+#list-of-image a:hover {
+	text-decoration: underline;
+}
