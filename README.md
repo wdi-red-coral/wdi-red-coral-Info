@@ -102,7 +102,7 @@ Curriculum schedule is subject to change at instructor's discretion.
 | 6    | 1-5    | Project 2      | Project 2       |   Project 2      |  Project 2     |    Project 2     |
 | 7    | 1    |   [The Sieve of Eratosthenes](https://github.com/wdi-red-coral/warmup-week_07-day_01-sieve)   |   [Fat Arrow Callbacks](https://github.com/wdi-red-coral/week_07-day_01-fat-arrow-callbacks)     |   [JS Classes](https://github.com/wdi-red-coral/week_07-day_01-js-classes)      |       |    [HW JS Classes](https://github.com/wdi-red-coral/hw-week_07-day_01-js-classes)    |
 | 7    | 2    |   [Advanced-js](https://github.com/wdi-red-coral/warmup-week_07-day_02-advanced-js)   |     [AJAX, API and JSON](https://github.com/wdi-red-coral/week_07-day_02-ajax)   |         |       |      [AJAX HW](https://github.com/wdi-red-coral/hw-week_07-day_02-ajax)   |
-| 7    | 3    |      |     [AJAX-Lab](https://github.com/wdi-red-coral/week_07-day_03-ajax-lab)   |         |       |   [HW React](https://github.com/wdi-red-coral/hw-week_07-day_03-react)      |
+| 7    | 3    |      |     [AJAX-Lab](https://github.com/wdi-red-coral/week_07-day_03-ajax-lab)   |         |       |   [HW React - Introduction](https://github.com/wdi-red-coral/hw-week_07-day_03-react)      |
 | 7    | 4    |   [Warmup AJAX](https://github.com/wdi-red-coral/warmup-week_07-day_04-AJAX)   |     [Node - NPM](https://github.com/wdi-red-coral/week_07-day_04-node)   |    [React](https://github.com/wdi-red-coral/week_07-day_04-react)     |       |         |
 | 7    | 5    |      |        |         |       |         |
 | 8    | 1    |      |        |         |       |         |
