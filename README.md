@@ -105,8 +105,8 @@ Curriculum schedule is subject to change at instructor's discretion.
 | 7    | 3    |   [Ruby Rails Championship (Kahoot)](https://create.kahoot.it/details/ruby-rails-championship/56d96d4f-04e1-4ff7-9813-292c491006fa)   |     [AJAX-Lab](https://github.com/wdi-red-coral/week_07-day_03-ajax-lab)   |         |       |   [HW React - Introduction](https://github.com/wdi-red-coral/hw-week_07-day_03-react)      |
 | 7    | 4    |   [Warmup AJAX](https://github.com/wdi-red-coral/warmup-week_07-day_04-AJAX)   |     [Node - NPM](https://github.com/wdi-red-coral/week_07-day_04-node)   |    [React](https://github.com/wdi-red-coral/week_07-day_04-react)     |       |    [HW React - Props](https://github.com/wdi-red-coral/hw-week_07-day_03-react)     |
 | 7    | 5    |   [Research and Instruct](https://github.com/wdi-red-coral/research-and-instruct)   |    [React Components](https://github.com/wdi-red-coral/week_07-day_05-react-components)    |    [React Components Props](https://github.com/wdi-red-coral/week_07-day_05-react-components-props)     |       |      [HW React - State and Events](https://github.com/wdi-red-coral/hw-week_07-day_03-react)    |
-| 8    | 1    |   [Warm-up React-Component-and-Props](https://github.com/wdi-red-coral/warmup-week_08-day_01-React-Component-and-Props)   |        |         |       |         |
-| 8    | 2    |      |        |         |       |         |
+| 8    | 1    |   [React - Harry Potter ](https://github.com/wdi-red-coral/warmup-week_08-day_01-React-Component-and-Props)   |    [React Components State](https://github.com/wdi-red-coral/week_08-day_01-react-components-state)    |         |       |    [HW React Lifecycle](https://github.com/wdi-red-coral/hw-week_07-day_03-react)     |
+| 8    | 2    |   [JavaScript Championship (Kahoot)](https://create.kahoot.it/details/4447bc40-651f-481d-a92b-9f1cf8b3f9ea)   |    [React Events](https://github.com/wdi-red-coral/week_08-day_02-react-components-events/)  |         |       |         |
 | 8    | 3    |      |        |         |       |         |
 | 8    | 4    |      |        |         |       |         |
 | 8    | 5    |      |        |         |       |         |
