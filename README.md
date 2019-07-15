@@ -109,10 +109,10 @@ Curriculum schedule is subject to change at instructor's discretion.
 | 8    | 2    |   [JavaScript Championship (Kahoot)](https://create.kahoot.it/details/4447bc40-651f-481d-a92b-9f1cf8b3f9ea)   |    [React Events](https://github.com/wdi-red-coral/week_08-day_02-react-components-events/)  |         |       |    [HW React AJAX](https://github.com/wdi-red-coral/hw-week_07-day_03-react)     |
 | 8    | 3    |   [React - State Practice](https://github.com/wdi-red-coral/warmup-week_08-day_01-React-State-Practice)   |    React Axios / Component Lifecycle    |         |       |    [Project Intro](https://github.com/wdi-red-coral/project-3-prompt)     |
 | 8    | 4    |   [Research and Instruct](https://github.com/wdi-red-coral/research-and-instruct-web-frameworks/blob/master/README.md)   |    [React Router](https://github.com/wdi-red-coral/week_08-day_04-react-router/)    |         |       |         |
-| 8    | 5    |      |        |         |       |         |
+| 8    | 5    |   [Sami React (Kahoot)](https://create.kahoot.it/share/react-js/766ec7fb-6635-45fd-9da8-548a5365d2f9)   |    Github Team Workflow    |         |       |         |
 | 9    | 1-5    | Project 3      | Project 3       |   Project 3      |  Project 3     |    Project 3     |
-| 10    | 1    |      |        |         |       |        |
-| 10    | 2    |      |        |         |       |         |
+| 10    | 1    |      |    [Mongodb](https://github.com/wdi-red-coral/week_10-day_01-mongodb)    |     [Mongoose](https://github.com/wdi-red-coral/week_10-day_01-mongoose)    |       |        |
+| 10    | 2    |   [Mongoose](https://github.com/wdi-red-coral/warmup-week_10-day_2-mongoose)   |        |         |       |         |
 | 10    | 3    |      |        |         |       |         |
 | 10    | 4    |      |        |         |       |         |
 | 10    | 5    |      |        |         |       |         |
