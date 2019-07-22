@@ -158,12 +158,12 @@ Curriculum schedule is subject to change at instructor's discretion.
 
 | No. |Group Name| Student One |Student Two| Student Three | Student Four | Student Five | Project Repo |
 | --- | ---| --- | --- | -- | -- | -- | -- |
-1 | Hello, World|Dhaffaf | Mashael | Sumayah | Salman | | [ONASA](https://github.com/debug-entity/project-3/) ([Live](https://debug-entity.github.io/project-3/#/)) |
-2 | Team Rocket|Danyah | Salha | Samah | Nader | | [Tic Tac Toe]() ([Live]()) |
-3 | The Guardians|Haneen | Lamar | Abdulrhman |Nashaat| | | 
-4 | Debug Entity|Nuwayyir | Asmaa |  Omar Almalky | Ahmed | saeed| |
-5 | Tech team|Wijdan |  maha | Taha |amany | | |
-6 | Error Monsters | Huda | Jawaher| Norah | omar ibrahim| | |
+1 | Hello, World|Dhaffaf | Mashael | Sumayah | Salman | | [LOST](https://github.com/hello-world-wdi/find-loster.git) ([Live](https://hello-world-wdi.github.io/find-loster/#/)) |
+2 | Team Rocket|Danyah | Salha | Samah | Nader | |  [Rocket-Store](https://github.com/phoenixica/rocket-store) ([Live](https://phoenixica.github.io/rocket-store/#/)) |
+3 | The Guardians|Haneen | Lamar | Abdulrhman |Nashaat| | [Hlna-Records](https://github.com/the-guardians-team/hlna-records-project) ([Live](https://the-guardians-team.github.io/hlna-records-project/#/))| 
+4 | Debug Entity|Nuwayyir | Asmaa |  Omar Almalky | Ahmed | saeed| [ONASA](https://github.com/debug-entity/project-3/) ([Live](https://debug-entity.github.io/project-3/#/)) |
+5 | Tech team|Wijdan |  maha | Taha |amany | | [Currency Exchange](https://github.com/wdi-techteam/project-3) ([Live](https://wdi-techteam.github.io/project-3/#/)) |
+6 | Error Monsters | Huda | Jawaher| Norah | omar ibrahim| | []() ([Live]()) |
 
 ## Licensing
 1. All content is licensed under a CC-BY-NC-SA 4.0 license.
