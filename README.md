@@ -158,8 +158,8 @@ Curriculum schedule is subject to change at instructor's discretion.
 
 | No. |Group Name| Student One |Student Two| Student Three | Student Four | Student Five | Project Repo |
 | --- | ---| --- | --- | -- | -- | -- | -- |
-1 | Hello, World|Dhaffaf | Mashael | Sumayah | Salman | | |
-2 | Team Rocket|Danyah | Salha | Samah | Nader | | |
+1 | Hello, World|Dhaffaf | Mashael | Sumayah | Salman | | [ONASA](https://github.com/debug-entity/project-3/) ([Live](https://debug-entity.github.io/project-3/#/)) |
+2 | Team Rocket|Danyah | Salha | Samah | Nader | | [Tic Tac Toe]() ([Live]()) |
 3 | The Guardians|Haneen | Lamar | Abdulrhman |Nashaat| | | 
 4 | Debug Entity|Nuwayyir | Asmaa |  Omar Almalky | Ahmed | saeed| |
 5 | Tech team|Wijdan |  maha | Taha |amany | | |
