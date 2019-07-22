@@ -112,7 +112,7 @@ Curriculum schedule is subject to change at instructor's discretion.
 | 8    | 5    |   [Sami React (Kahoot)](https://create.kahoot.it/share/react-js/766ec7fb-6635-45fd-9da8-548a5365d2f9)   |    Github Team Workflow    |         |       |         |
 | 9    | 1-5    | Project 3      | Project 3       |   Project 3      |  Project 3     |    Project 3     |
 | 10    | 1    |      |    [Mongodb](https://github.com/wdi-red-coral/week_10-day_01-mongodb)    |     [Mongoose](https://github.com/wdi-red-coral/week_10-day_01-mongoose)    |       |    [Mongoose](https://github.com/wdi-red-coral/week_10-day_01-mongoose)    |
-| 10    | 2    |   [Mongoose](https://github.com/wdi-red-coral/warmup-week_10-day_2-mongoose)   |    [Express](https://github.com/wdi-red-coral/week_10-day_02-express)    |         |       |         |
+| 10    | 2    |   [Mongoose-warm-up](https://github.com/wdi-red-coral/warmup-week_10-day_2-mongoose)   |    [Express](https://github.com/wdi-red-coral/week_10-day_02-express)    |         |       |    [Express HW](https://github.com/wdi-red-coral/hw-week_10-day_2-express)     |
 | 10    | 3    |      |        |         |       |         |
 | 10    | 4    |      |        |         |       |         |
 | 10    | 5    |      |        |         |       |         |
