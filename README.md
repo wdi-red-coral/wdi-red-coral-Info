@@ -154,7 +154,7 @@ Curriculum schedule is subject to change at instructor's discretion.
 | 25  |   Wijdan Waleed Kuddah    |    [Tic Tac Toe](https://github.com/wijdan1995/tic-tac-toe) ([Live](https://wijdan1995.github.io/tic-tac-toe/))        |     [Project Tracker](https://github.com/wijdan1995/project-2) ([Live](https://calm-plains-99226.herokuapp.com))       |           |            |
 
 ----------
-#### Group Projects 
+#### Group Projects 3 
 
 | No. |Group Name| Student One |Student Two| Student Three | Student Four | Student Five | Project Repo |
 | --- | ---| --- | --- | -- | -- | -- | -- |
